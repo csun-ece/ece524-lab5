@@ -37,8 +37,8 @@ In this lab you are going to implement one of the arithmetic circuits that is co
 
 Note: You can volunteer for option (7) or if you decide to go with options (1) through (6), the arithmetic circuit will be assigned to you by the instructor (randomly).
 
-:point_right: Provide the detailed block diagram of your design.
+:point_right: **Task 1:** Provide the detailed block diagram of your design.
 
-:point_right: Provide VHDL source code and VHDL testbench for the design.
+:point_right: **Task 1:** Provide VHDL source code and VHDL testbench for the design.
 
 :question: **Question 1:** Provide FPGA area utilization for your deisgn.
